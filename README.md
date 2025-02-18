@@ -22,14 +22,11 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='[<blockquote class="imgur-embed-pub" lang="en" data-id="RFBTbLB"><a href="https://imgur.com/RFBTbLB">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>' title='email' width='' alt='email' />
+<img src='https://i.imgur.com/RFBTbLB.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
+
 
 ## Notes
 
