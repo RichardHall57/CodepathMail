@@ -21,8 +21,8 @@ The following **optional** features are implemented:
 ## Video
 
 Here's a walkthrough of implemented features:
-file:///Users/richardhall/Downloads/Kapture%202025-02-06%20at%2014.57.58.gif
-<img src='https://i.imgur.com/RFBTbLB.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+file: ///Users/richardhall/Downloads/Kapture%202025-02-06%20at%2014.57.58.gif
+<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [Kap]([https://getkap.co/]) for Windows
